@@ -56,7 +56,7 @@ type Options struct {
 
   // CleanQuery removes any redundant whitespace before logging.
   // Default: false.
-  leanQuery bool
+  CleanQuery bool
 }
 ```
 
