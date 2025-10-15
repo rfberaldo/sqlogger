@@ -1,6 +1,6 @@
 # SQLogger
 
-[![Tests Status](https://github.com/rfberaldo/sqlogger/actions/workflows/test.yaml/badge.svg?branch=master)](https://github.com/rfberaldo/sqlogger/actions/workflows/test.yaml)
+[![Test Status](https://github.com/rfberaldo/sqlogger/actions/workflows/test.yaml/badge.svg)](https://github.com/rfberaldo/sqlogger/actions/workflows/test.yaml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rfberaldo/sqlogger)](https://goreportcard.com/report/github.com/rfberaldo/sqlogger)
 [![Go Reference](https://pkg.go.dev/badge/github.com/rfberaldo/sqlogger.svg)](https://pkg.go.dev/github.com/rfberaldo/sqlogger)
 
